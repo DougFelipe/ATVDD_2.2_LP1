@@ -1,0 +1,10 @@
+Amanda	7.5	Aprovado
+Alberto	5.2	Reprovado
+Jane	6.4	Reprovado
+Igor	7.1	Aprovado
+Maria Luiza	10	Aprovado
+Pedro	7.8	Aprovado
+Cesar	5.3	Reprovado
+Isabela	6.2	Reprovado
+Matheus	7	Aprovado
+João	6.1	Reprovado
